@@ -28,7 +28,7 @@ function setup() {
 	World.add(world,bin2)
 	bin3= Bodies.rectangle(735,240,10,115,options);
 	World.add(world,bin3)
-	bin= new Dustbin(790,263,130,155);
+	bin= new Dustbin(790,340,130,155);
 
 
 	
